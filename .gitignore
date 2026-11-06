@@ -1,0 +1,9 @@
+.openai/
+backup-original/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+오늘도조달_전체코드.txt
+오늘도조달_작업내용정리.txt
